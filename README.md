@@ -1,15 +1,8 @@
 # Hi, I'm Tejas Gorade 👋
 
-### 🤷 What I'm Building
-I am currently developing **CodeSense**, an AI-powered GitHub PR reviewer, and **DevPulse**, a real-time performance dashboard for distributed systems.
-
 ### 👍 Tech Stack
-- **Languages:** C++ (Data Structures & Algorithms), JavaScript
-- **Backend:** Node.js, Express, PostgreSQL
-- **Frontend & AI:** React, Next.js, LLM API Integrations
+- **Languages:** C++ (Data Structures & Algorithms), JavaScript , Express
 
-### 👍 2026 Goal
-Executing a 12-month sprint to master Full-Stack Engineering and high-performance system design for elite product-based roles.
 
 
 <!--
